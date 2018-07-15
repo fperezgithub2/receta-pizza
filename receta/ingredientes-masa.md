@@ -1,3 +1,4 @@
+Tipo de Pizzas
 
 Receta de Salsas
 
